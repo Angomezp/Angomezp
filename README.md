@@ -1,4 +1,4 @@
-# 👋 Hi! I'm [Ángel Gómez]
+# 👋 Hi! I'm **Angel Gomez**
 
 🎓 Currently a **Computer Science** student interested in **Data Analysis** and **Software Engineering**.   
 ---
